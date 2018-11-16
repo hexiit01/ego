@@ -1,0 +1,4 @@
+com\xdqx\service\impl\PicServiceImpl.class
+com\xdqx\service\PicService.class
+com\xdqx\controller\PicController.class
+com\xdqx\mapper\PicMapper.class
